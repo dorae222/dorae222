@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=data%20 Blog&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Data%20Blog&fontSize=90)
 
 
 ## *MLOPS Engineer*, 데이터로 문제를 해결하는 사람
@@ -16,6 +16,7 @@
 * **엔코아 빅데이터 MLOPS 과정 16기** 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorae222)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorae222)](https://github.com/dorae222/github-readme-stats)
 
 ✨  <I>[RESUME](https://dorae222.notion.site/72dd341546574243a2184b622f2b19ca)</I>    
 🌱  <I>[PORTFOLIO](https://dorae222.notion.site/72dd341546574243a2184b622f2b19ca)</I>      
