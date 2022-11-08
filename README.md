@@ -12,7 +12,8 @@
 * **한양대학교 경영학부** <I>2019.03 ~ </I> 
 * **한양대학교 빅데이터학부** <I>2022.03 ~ </I> 
 * **2022 데이터 청년 캠퍼스** <I>2022.07 ~ 2022.09</I> 
-* **엔코아 빅데이터 MLOPS 과정 16기** 
+* **엔코아 빅데이터 MLOPS 과정 16기**</I> 
+* **Kaggle Contributor** 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorae222)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorae222)](https://github.com/dorae222/github-readme-stats)-->
