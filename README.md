@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/-Keras-D00000?&logo=Keras&logoColor=white)
 ![](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/-Notion-000000?&logo=Notion&logoColor=white)
 
 * **한양대학교 빅데이터 융합전공** <I>2022.03 ~ </I> 
 * **2022 데이터 청년 캠퍼스** <I>2022.07 ~ 2022.09</I> 
