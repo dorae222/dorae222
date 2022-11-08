@@ -1,7 +1,7 @@
 ## *MLOPS Engineer*, 데이터로 문제를 해결하는 사람
 ![](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
-![](https://img.shields.io/badge/-scikit-learn-F7931E?&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/-scikitlearn-F7931E?&logo=scikitlearn&logoColor=white)
 ![](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/-Keras-D00000?&logo=Keras&logoColor=white)
 ![](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
