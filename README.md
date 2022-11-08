@@ -15,7 +15,7 @@
 * **엔코아 빅데이터 MLOPS 과정 16기** 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorae222)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorae222)](https://github.com/dorae222/github-readme-stats)
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorae222)](https://github.com/dorae222/github-readme-stats)
 
 ✨  <I>[RESUME](https://dorae222.notion.site/72dd341546574243a2184b622f2b19ca)</I>    
 🌱  <I>[PORTFOLIO](https://dorae222.notion.site/72dd341546574243a2184b622f2b19ca)</I>      
