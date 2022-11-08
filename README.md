@@ -1,4 +1,3 @@
-capsule = 'Dorae222 Blog'
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Data Blog&fontSize=90)
 
 ## *MLOPS Engineer*, 데이터로 문제를 해결하는 사람
