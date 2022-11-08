@@ -10,8 +10,10 @@
 * **2022 데이터 청년 캠퍼스** <I>2022.07 ~ 2022.09</I> 
 * **엔코아 빅데이터 MLOPS 과정 16기** <I>2022.10 ~ </I>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorae222)(https://github.com/dorae222/github-readme-stats)
+
 ✨  <I>[RESUME](https://dorae222.notion.site/72dd341546574243a2184b622f2b19ca)</I>    
 🌱  <I>[PORTFOLIO](https://dorae222.notion.site/72dd341546574243a2184b622f2b19ca)</I>      
 ✏️  <I>[BLOG](https://dorae222.github.io/dorae22_blog/)</I>    
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorae222)](https://github.com/dorae222/github-readme-stats)
+
