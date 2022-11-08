@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20Blog&fontSize=50&animation=fadeIn&fontAlignY=30&desc=Data%20Exploration%20of%20Business%20College%20Students!&descAlignY=51&descAlign=62)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20Blog&fontSize=50&animation=fadeIn&fontAlignY=30&desc=Data%20Exploration%20of%20Business%20College%20Students!&descAlignY=51&descAlign=62)-->
 
 ## *MLOPS Engineer*, 데이터로 문제를 해결하는 사람
 ![](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
