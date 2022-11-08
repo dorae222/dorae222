@@ -1,3 +1,6 @@
+capsule = 'Dorae222 Blog'
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ## *MLOPS Engineer*, 데이터로 문제를 해결하는 사람
 ![](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
