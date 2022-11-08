@@ -13,3 +13,5 @@
 ✨  <I>[RESUME](https://dorae222.notion.site/72dd341546574243a2184b622f2b19ca)</I>    
 🌱  <I>[PORTFOLIO](https://dorae222.notion.site/72dd341546574243a2184b622f2b19ca)</I>      
 ✏️  <I>[BLOG](https://dorae222.github.io/dorae22_blog/)</I>    
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorae222)](https://github.com/dorae222/github-readme-stats)
