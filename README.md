@@ -1,10 +1,10 @@
 ## *MLOPS Engineer*, 데이터로 문제를 해결하는 사람
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
- <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
- <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+![](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
+![](https://img.shields.io/badge/-scikit-learn-F7931E?&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/-Keras-D00000?&logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
 
 
 * **2022 데이터 청년 캠퍼스** <I>2022.07 ~ 2022.09</I> 
