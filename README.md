@@ -8,14 +8,14 @@
   * ![](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
     ![](https://img.shields.io/badge/-RStudio-75AADB?&logo=RStudio&logoColor=white)
   * (![](https://img.shields.io/badge/-Java-276DC3?&logo=Java&logoColor=white)
-    ![](https://img.shields.io/badge/-EclipseIDE-75AADB?&logo=EclipseIDE&logoColor=white))
+    ![](https://img.shields.io/badge/-EclipseIDE-75AADB?&logo=EclipseIDE&logoColor=white)) -> not yet
 * Module
   * ![](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white)
     ![](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=white)
   * ![](https://img.shields.io/badge/-scikitlearn-F7931E?&logo=scikitlearn&logoColor=white)
     ![](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
     ![](https://img.shields.io/badge/-Keras-D00000?&logo=Keras&logoColor=white)
-    (![](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white))
+    (![](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)) -> not yet
   * ![](https://img.shields.io/badge/-Matplotlib-11557c?&logo=Matplotlib&logoColor=white)
     ![](https://img.shields.io/badge/-Plotly-3F4F75?&logo=Plotly&logoColor=white)
 * Collaboration Tools
