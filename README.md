@@ -13,6 +13,7 @@
   * ![](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white)
     ![](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=white)
   * ![](https://img.shields.io/badge/-scikitlearn-F7931E?&logo=scikitlearn&logoColor=white)
+    ![](https://img.shields.io/badge/-tslearn-276DC3?&logo=tslearn&logoColor=white)
     ![](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
     ![](https://img.shields.io/badge/-Keras-D00000?&logo=Keras&logoColor=white)
     (![](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)) -> not yet
@@ -22,15 +23,18 @@
   * ![](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
     ![](https://img.shields.io/badge/-Notion-000000?&logo=Notion&logoColor=white)
     ![](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white)
-* .py to Web
+* Python to Web
   * ![](https://img.shields.io/badge/-Streamlit-FF4B4B?&logo=Streamlit&logoColor=white)
 ---
-> **Major and Qualifications**
-  * 한양대학교 경영학부 <I>2019.03 ~ </I> 
-  * 한양대학교 빅데이터학부 <I>2022.03 ~ </I> 
+> **Major**
+  * 한양대학교(서울) 경영학부 <I>2019.03 ~ </I> 
+  * 한양대학교(서울) 빅데이터학부 <I>2022.03 ~ </I> 
+---
+> **Qualifications**
   * 2022 데이터 청년 캠퍼스 <I>2022.07 ~ 2022.09</I> 
-  * 엔코아 빅데이터 MLOPS 과정 5기
+  * 엔코아 빅데이터 MLOPS 과정 5기 <I>2022.10 ~ </I>
   * Kaggle Contributor
+  * 한국관광공사 사장상 <I>(관광부상지역 모니터링 시스템 개발)<I>
   * ADsP <I>(데이터분석 준전문가)<I>
   * SQLD <I>(SQL 개발자)<I>
 ---
