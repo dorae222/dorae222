@@ -5,6 +5,8 @@
 * Language
   * ![](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
     ![](https://img.shields.io/badge/-Anaconda-44A833?&logo=Anaconda&logoColor=white)
+    ![](https://img.shields.io/badge/-Jupyter-F37626?&logo=Jupyter&logoColor=white)
+    ![](https://img.shields.io/badge/-SpyderIDE-FF0000?&logo=SpyderIDE&logoColor=white)
   * ![](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
     ![](https://img.shields.io/badge/-RStudio-75AADB?&logo=RStudio&logoColor=white)
   * (![](https://img.shields.io/badge/-Java-276DC3?&logo=Java&logoColor=white)
