@@ -26,7 +26,8 @@
     ![](https://img.shields.io/badge/-Notion-000000?&logo=Notion&logoColor=white)
     ![](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white)
 * Python to Web
-  * ![](https://img.shields.io/badge/-Streamlit-FF4B4B?&logo=Streamlit&logoColor=white)
+  * ![](https://img.shields.io/badge/-Streamlit-FF4B4B?&logo=Streamlit&logoColor=white)<br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorae222)](https://github.com/dorae222/github-readme-stats)
 ---
 > **Major**
   * 한양대학교(서울) 경영학부 <I>2019.03 ~ </I> 
