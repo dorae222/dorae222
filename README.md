@@ -9,8 +9,8 @@
     ![](https://img.shields.io/badge/-SpyderIDE-FF0000?&logo=SpyderIDE&logoColor=white)
   * ![](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
     ![](https://img.shields.io/badge/-RStudio-75AADB?&logo=RStudio&logoColor=white)
-  * (![](https://img.shields.io/badge/-Java-276DC3?&logo=Java&logoColor=white)
-    ![](https://img.shields.io/badge/-EclipseIDE-75AADB?&logo=EclipseIDE&logoColor=white)) -> not yet
+  * ![](https://img.shields.io/badge/-Java-276DC3?&logo=Java&logoColor=white)
+    ![](https://img.shields.io/badge/-EclipseIDE-75AADB?&logo=EclipseIDE&logoColor=white)
 * Module
   * ![](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white)
     ![](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=white)
@@ -18,7 +18,6 @@
     ![](https://img.shields.io/badge/-tslearn-276DC3?&logo=tslearn&logoColor=white)
     ![](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
     ![](https://img.shields.io/badge/-Keras-D00000?&logo=Keras&logoColor=white)
-    (![](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)) -> not yet
   * ![](https://img.shields.io/badge/-Matplotlib-11557c?&logo=Matplotlib&logoColor=white)
     ![](https://img.shields.io/badge/-Plotly-3F4F75?&logo=Plotly&logoColor=white)
 * Collaboration Tools
@@ -27,6 +26,13 @@
     ![](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white)
 * Python to Web
   * ![](https://img.shields.io/badge/-Streamlit-FF4B4B?&logo=Streamlit&logoColor=white)<br>
+* On going
+  * ![](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
+  * ![](https://img.shields.io/badge/-Java-276DC3?&logo=Java&logoColor=white)
+    ![](https://img.shields.io/badge/-EclipseIDE-75AADB?&logo=EclipseIDE&logoColor=white)
+  * ![](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white)
+    ![](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)
+    ![](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=white)
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorae222)](https://github.com/dorae222/github-readme-stats)-->
 ---
 > **Major**
