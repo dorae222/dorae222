@@ -25,7 +25,7 @@
     ![](https://img.shields.io/badge/-Notion-000000?&logo=Notion&logoColor=white)
     ![](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white)
  ---
-> **On going**
+> **On going(sub-stack)**
 * DL
   * ![](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
     ![](https://img.shields.io/badge/-Keras-D00000?&logo=Keras&logoColor=white)
