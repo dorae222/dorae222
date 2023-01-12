@@ -32,10 +32,10 @@
 * Data Engineering
   * ![](https://img.shields.io/badge/-VirtualBox-183A61?&logo=VirtualBox&logoColor=white)
     ![](https://img.shields.io/badge/-ApacheHadoop-66CCFF?&logo=ApacheHadoop&logoColor=white)
-    ![](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white)
+    <!--![](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white)
     ![](https://img.shields.io/badge/-ApacheSpark-E25A1C?&logo=ApacheSpark&logoColor=white)
     ![](https://img.shields.io/badge/-ApacheHive-FDEE21?&logo=ApacheHive&logoColor=white)
-    ![](https://img.shields.io/badge/-ApachePig-276DC3?&logo=ApachePig&logoColor=white)
+    ![](https://img.shields.io/badge/-ApachePig-276DC3?&logo=ApachePig&logoColor=white)-->
 * Web Server
   * ![](https://img.shields.io/badge/-Java-276DC3?&logo=Java&logoColor=white)
     ![](https://img.shields.io/badge/-EclipseIDE-75AADB?&logo=EclipseIDE&logoColor=white)
