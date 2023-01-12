@@ -64,7 +64,7 @@
   * 🌱  <I>[PORTFOLIO](https://dorae222.notion.site/72dd341546574243a2184b622f2b19ca)</I>      
   * ✏️  <I>[BLOG](https://dorae222.github.io/dorae22_blog/)</I>    
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorae222&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorae222&show_icons=true&theme=transparent)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorae222)](https://github.com/dorae222/github-readme-stats)-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdorae222%2Fhit-counter&count_bg=%233D41C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
