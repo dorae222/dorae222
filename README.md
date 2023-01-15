@@ -5,7 +5,7 @@
 * OS + Infra
   * ![](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=white)
   * ![](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=white)
-    ![](https://img.shields.io/badge/-Ubuntu-E95420?&logo=Ubuntu&logoColor=white)
+    <!--![](https://img.shields.io/badge/-Ubuntu-E95420?&logo=Ubuntu&logoColor=white)-->
 * Language
   * ![](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
     ![](https://img.shields.io/badge/-Anaconda-44A833?&logo=Anaconda&logoColor=white)
