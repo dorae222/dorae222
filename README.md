@@ -62,7 +62,7 @@
 > **Portfolio & Blog**
   * ✨  <I>[NOTION](https://dorae222.notion.site/STUDY-PAGES-3b622da068134bebb2eec26b8ff4a213)</I>    
   * 🌱  <I>[PORTFOLIO](https://dorae222.notion.site/72dd341546574243a2184b622f2b19ca)</I>      
-  * ✏️  <I>[BLOG](https://dorae222.github.io/dorae22_blog/)</I>    
+  * ✏️  <I>[BLOG](https://dorae222.github.io/)</I>    
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorae222&show_icons=true&theme=transparent)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorae222)](https://github.com/dorae222/github-readme-stats)-->
