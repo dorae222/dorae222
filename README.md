@@ -1,5 +1,3 @@
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20Blog&fontSize=50&animation=fadeIn&fontAlignY=30&desc=Data%20Exploration%20of%20Business%20College%20Students!&descAlignY=51&descAlign=62)-->
-
 ## A Business Student, *Solving problems with data*
 > **Main Tech Stack**
 * OS
@@ -58,8 +56,5 @@
   * ✏️  <I>[BLOG](https://dorae222.github.io/)</I>    
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorae222&show_icons=true&theme=transparent)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorae222)](https://github.com/dorae222/github-readme-stats)-->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdorae222%2Fhit-counter&count_bg=%233D41C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
-<!--  [![trophy](https://github-profile-trophy.vercel.app/?username=dorae222)](https://github.com/ryo-ma/github-profile-trophy)
- -->
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdorae222%2Fhit-counter&count_bg=%233D41C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
