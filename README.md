@@ -16,12 +16,14 @@
     ![](https://img.shields.io/badge/-Keras-D00000?&logo=Keras&logoColor=white)
   * ![](https://img.shields.io/badge/-Matplotlib-11557c?&logo=Matplotlib&logoColor=white)
     ![](https://img.shields.io/badge/-Plotly-3F4F75?&logo=Plotly&logoColor=white)
+* Web Framework
+  * ![](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=white)
 * Collaboration Tools
   * ![](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
     ![](https://img.shields.io/badge/-Notion-000000?&logo=Notion&logoColor=white)
     ![](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white)
  ---
-> **On going(sub-stack)**
+> **sub-stack**
 * Data Engineering
   * ![](https://img.shields.io/badge/-ApacheHadoop-66CCFF?&logo=ApacheHadoop&logoColor=white)
   * ![](https://img.shields.io/badge/-ApacheSpark-E25A1C?&logo=ApacheSpark&logoColor=white)
@@ -42,13 +44,19 @@
   * 한양대학교(서울) 빅데이터학부 <I>2022.03 ~ </I> 
 ---
 > **Qualifications**
-  * 2022 데이터 청년 캠퍼스 <!-- <I>2022.07 ~ 2022.09</I>  -->
-  * 엔코아 빅데이터 엔지니어 16기 <!-- <I>2022.10 ~ 2023.03 </I> -->
-  * Kaggle Contributor
   * 한국관광공사 사장상 <I>(관광부상지역 모니터링 시스템 개발)<I>
   * 2022 한국관광 데이터랩 우수 활용사례 공모전 <I>우수상(2등)<I>
+  * 2023 부산시 주관 데이터 해커톤 <I>인기상(장려상)<I>
+  * ADP <I>(데이터분석 전문가) - 필기 취득<I>
   * ADsP <I>(데이터분석 준전문가)<I>
   * SQLD <I>(SQL 개발자)<I>
+  * Kaggle Contributor
+---
+> **Program**
+  * 2022 데이터 청년 캠퍼스 <I>2022.07 ~ 2022.09</I>
+  * 엔코아 빅데이터 엔지니어 16기 <I>2022.10 ~ 2023.03 </I>
+  * HAI(교내 인공지능 동아리) <I>2023.03 ~ </I>
+  * 투빅스(연합 인공지능 동아리) <I>2023.07 ~ </I>
 ---
 > **Portfolio & Blog**
   * ✨  <I>[NOTION](https://dorae222.notion.site/STUDY-PAGES-3b622da068134bebb2eec26b8ff4a213)</I>    
