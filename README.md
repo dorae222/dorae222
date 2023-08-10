@@ -1,5 +1,5 @@
 ## A Business Student, *Solving problems with data*
-> **Main Tech Stack**
+> **Tech Stack**
 * OS
   * ![](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=white)
     ![](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=white)
@@ -23,7 +23,7 @@
     ![](https://img.shields.io/badge/-Notion-000000?&logo=Notion&logoColor=white)
     ![](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white)
  ---
-> **sub-stack**
+> **Using at least once**
 * Data Engineering
   * ![](https://img.shields.io/badge/-ApacheHadoop-66CCFF?&logo=ApacheHadoop&logoColor=white)
   * ![](https://img.shields.io/badge/-ApacheSpark-E25A1C?&logo=ApacheSpark&logoColor=white)
