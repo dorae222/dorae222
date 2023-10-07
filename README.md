@@ -37,8 +37,10 @@
   * ![](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white)
     ![](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)
     ![](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=white)
- <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorae222)](https://github.com/dorae222/github-readme-stats)-->
----
+    ---
+  * ![](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white)
+    ![](https://img.shields.io/badge/-kubernetes-326CE5?&logo=kubernetes&logoColor=white)
+   
 > **Major**
   * 한양대학교(서울) 경영학부 <I>2019.03 ~ </I> 
   * 한양대학교(서울) 빅데이터학부 <I>2022.03 ~ </I> 
