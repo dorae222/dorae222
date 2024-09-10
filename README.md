@@ -40,7 +40,7 @@
     ---
   * ![](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white)
     ![](https://img.shields.io/badge/-kubernetes-326CE5?&logo=kubernetes&logoColor=white)
-   
+---   
 > **Major**
   * 한양대학교(서울) 경영학부 <I>2019.03 ~ </I> 
   * 한양대학교(서울) 빅데이터학부 <I>2022.03 ~ </I> 
@@ -57,8 +57,9 @@
 > **Program**
   * 2022 데이터 청년 캠퍼스 <I>2022.07 ~ 2022.09</I>
   * 엔코아 빅데이터 엔지니어 16기 <I>2022.10 ~ 2023.03 </I>
-  * HAI(교내 인공지능 동아리) <I>2023.03 ~ </I>
-  * 투빅스(연합 인공지능 동아리) <I>2023.07 ~ </I>
+  * HAI(교내 인공지능 동아리) <I>2023.03 ~ 2024.02</I>
+  * 투빅스(연합 인공지능 동아리) <I>2023.07 ~ 2024.06</I>
+  * 한양대학교 비즈랩 - 빅데이터랩 <I>2024.07 ~ </I>
 ---
 > **Portfolio & Blog**
   * ✨  <I>[NOTION](https://dorae222.notion.site/STUDY-PAGES-3b622da068134bebb2eec26b8ff4a213)</I>    
