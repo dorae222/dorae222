@@ -1,73 +1,142 @@
-## A Business Student, *Solving problems with data*
-> **Tech Stack**
-* OS
-  * ![](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=white)
-    ![](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=white)
-    <!--![](https://img.shields.io/badge/-Ubuntu-E95420?&logo=Ubuntu&logoColor=white)-->
-* Language
-  * ![](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
-    ![](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white)
-* Module
-  * ![](https://img.shields.io/badge/-NumPy-013243?&logo=NumPy&logoColor=white)
-    ![](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=white)
-  * ![](https://img.shields.io/badge/-scikitlearn-F7931E?&logo=scikitlearn&logoColor=white)
-  * ![](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
-    ![](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
-    ![](https://img.shields.io/badge/-Keras-D00000?&logo=Keras&logoColor=white)
-  * ![](https://img.shields.io/badge/-Matplotlib-11557c?&logo=Matplotlib&logoColor=white)
-    ![](https://img.shields.io/badge/-Plotly-3F4F75?&logo=Plotly&logoColor=white)
-* Web Framework
-  * ![](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=white)
-* Collaboration Tools
-  * ![](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
-    ![](https://img.shields.io/badge/-Notion-000000?&logo=Notion&logoColor=white)
-    ![](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white)
- ---
-> **Using at least once**
-* Data Engineering
-  * ![](https://img.shields.io/badge/-ApacheHadoop-66CCFF?&logo=ApacheHadoop&logoColor=white)
-  * ![](https://img.shields.io/badge/-ApacheSpark-E25A1C?&logo=ApacheSpark&logoColor=white)
-  * ![](https://img.shields.io/badge/-ApacheHive-FDEE21?&logo=ApacheHive&logoColor=white)
-    ![](https://img.shields.io/badge/-ApachePig-276DC3?&logo=ApachePig&logoColor=white)
-  * ![](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white)
-* Web Server
-  * ![](https://img.shields.io/badge/-Java-276DC3?&logo=Java&logoColor=white)
-    ![](https://img.shields.io/badge/-ApacheTomcat-F8DC75?&logo=ApacheTomcat&logoColor=white)
-    ![](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)
-  * ![](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white)
-    ![](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)
-    ![](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=white)
-  * ![](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white)
-    ![](https://img.shields.io/badge/-kubernetes-326CE5?&logo=kubernetes&logoColor=white)
----   
-> **Major**
-  * Hanyang University(Seoul)
-  * DEPARTMENT OF BUSINESS ADMINISTRATION, B.A. <I>2019.03 ~ 2025.02</I> 
-  * Major in Big Data Science, B.S. <I>2022.03 ~ 2025.02</I>
-  * DEPARTMENT OF BUSINESS ADMINISTRATION, M.S. <I>2025.03 ~ </I> 
----
-> **Qualifications**
-  * 한국관광공사 사장상 <I>(관광부상지역 모니터링 시스템 개발)<I>
-  * [2022 한국관광 데이터랩 우수 활용사례 공모전](https://datalab.visitkorea.or.kr/site/portal/ex/bbs/View.do?cbIdx=1135&bcIdx=301956&pageIndex=1&tgtTypeCd=&searchKey=&searchKey2=) <I>우수상(2등)<I>
-  * [2023 부산시 주관 데이터 해커톤 수상](https://www.dxchallenge.co.kr/about-1)
-  * ADP <I>(데이터분석 전문가) - 필기 취득<I>
-  * ADsP <I>(데이터분석 준전문가)<I>
-  * SQLD <I>(SQL 개발자)<I>
-  * [교내 한국어 지역 방언 분류 3위](https://www.kaggle.com/competitions/hai2023summer/overview)
-  * Kaggle Contributor
----
-> **Program**
-  * [2022 데이터 청년 캠퍼스](http://www.bigleader.net/) <I>2022.07 ~ 2022.09</I>
-  * [Encore 빅데이터 엔지니어 16기](https://playdata.io/) <I>2022.10 ~ 2023.03 </I>
-  * [HAI(교내 인공지능 동아리)](https://github.com/HanyangTechAI) <I>2023.03 ~ 2024.02</I>
-  * [투빅스(연합 인공지능 동아리)](https://github.com/tobigs-datamarket) <I>2023.07 ~ 2024.06</I>
-  * [한양대학교 비즈랩(빅데이터랩)](https://biz.hanyang.ac.kr/en/bizlab) <I>2024.07 ~ 2024.12</I>
----
-> **Portfolio & Blog**
-  * ✨  <I>[NOTION](https://dorae222.notion.site/STUDY-PAGES-3b622da068134bebb2eec26b8ff4a213)</I>    
-  * 🌱  <I>[PORTFOLIO](https://dorae222.notion.site/dorae222/72dd341546574243a2184b622f2b19ca)</I>      
-  * ✏️  <I>[BLOG](https://dorae222.tistory.com/)</I>    
----
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorae222&show_icons=true&theme=transparent)-->
- 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdorae222%2Fhit-counter&count_bg=%233D41C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+<h2 align="left">
+Foundation Model 기반 AI 문제 해결에 관심을 둔 개발자
+</h2>
+
+<i>
+모델을 단순히 사용하는 데서 그치지 않고,  
+AI를 이해함으로써 데이터·시스템·문제 맥락에 맞게 활용합니다.
+</i>
+
+
+## 1. Portfolio & Blog
+* ✨ <i>[NOTION](https://dorae222.notion.site/STUDY-PAGES-3b622da068134bebb2eec26b8ff4a213)</i>
+* 🌱 <i>[PORTFOLIO](https://dorae222.notion.site/dorae222/72dd341546574243a2184b622f2b19ca)</i>
+
+<br>
+
+## 2. Major
+* 한양대학교(서울) 다중전공
+    * 빅데이터학과 (공학사) <i>2022.03 ~ 2025.02</i>
+    * 경영학과 (경영학사) <i>2019.03 ~ 2025.02</i>
+
+<br>
+
+## 3. Qualifications
+
+### 3.1. Awards
+* [인공지능 사관학교 6기 온라인 해커톤 대상(1위)](https://drive.google.com/file/d/1Xp6P4loUhJ85T2C46xoiXY4gmyYDXCTc/view?usp=sharing)
+* [한국관광공사 사장상](https://drive.google.com/file/d/11FliXJrwMraneUoEo8bw_5rGx5OJ4KMq/view?usp=sharing) <i>(관광부상지역 모니터링 시스템 개발)</i>
+* [2022 한국관광 데이터랩 우수 활용사례 공모전](https://drive.google.com/file/d/1xH-kmTamXGiSPQSZD9QWAlBICoycC2xv/view?usp=sharing) <i>우수상(2등)</i>
+* [교내 한국어 지역 방언 분류 대회 3위](https://www.kaggle.com/competitions/hai2023summer/overview)
+
+
+### 3.2. Certifications
+* [AWS Certifications (Credly)](https://www.credly.com/users/hyeongjun-do)
+  * Machine Learning – Associate, Specialty
+  * Solutions Architect – Associate
+  * AI, Cloud - Practitioner
+* [ADsP](https://drive.google.com/file/d/157vgaQ_kUevgaTGQxBoku7fSOJox9f2O/view?usp=sharing)
+* [SQLD](https://drive.google.com/file/d/1_qy0zz34BNcD8nySZ16YgqMOXboNRVP4/view?usp=sharing)
+
+<br>
+
+## 4. Program
+* [인공지능 사관학교 6기](https://gj-aischool.or.kr/) <i>2025.06 ~ 2025.12</i>
+* [한양대학교 비즈랩(빅데이터랩)](https://biz.hanyang.ac.kr/en/bizlab) <i>2024.07 ~ 2024.12</i>
+* [투빅스(연합 인공지능 동아리)](https://github.com/tobigs-datamarket) <i>2023.07 ~ 2024.06</i>
+* [HAI(교내 인공지능 동아리)](https://github.com/HanyangTechAI) <i>2023.03 ~ 2024.02</i>
+* [Encore 빅데이터 엔지니어 16기](https://playdata.io/) <i>2022.10 ~ 2023.03</i>
+* [2022 데이터 청년 캠퍼스](http://www.bigleader.net/projects) <i>2022.07 ~ 2022.09</i>
+
+<br>
+
+## 5. Tech Stack
+
+> Main: 다수 프로젝트에서 주력으로 사용  
+> Experience: 일부 프로젝트 또는 학습을 통해 사용 경험 보유
+
+##### 5.1. Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="26" alt="r" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26" alt="java" />
+</div>
+
+##### 5.2. Backend (Main)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="26" alt="django" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="26" alt="flask" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="26" alt="fastapi" />
+</div>
+
+##### 5.3. Backend (Experience)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="26" alt="spring" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="26" alt="tomcat" />
+</div>
+
+##### 5.4. Data / ML (Main)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="26" alt="numpy" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="26" alt="pandas" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="26" alt="scikit-learn" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="26" alt="pytorch" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="26" alt="tensorflow" />
+</div>
+
+##### 5.5. Data Engineering (Experience)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="26" alt="hadoop" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="26" alt="apache" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="26" alt="spark" />
+</div>
+
+##### 5.6. Database
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="26" alt="postgresql" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="26" alt="mysql" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="26" alt="mongodb" />
+</div>
+
+##### 5.7. Frontend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="html5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="css3" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="javascript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" alt="react" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26" alt="typescript" />
+</div>
+
+##### 5.8. DevOps / Cloud
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26" alt="docker" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="26" alt="kubernetes" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="26" alt="aws" />
+</div>
+
+##### 5.9. OS / Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="26" alt="linux" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" alt="git" />
+  <img width="10" />
+</div>
