@@ -1,10 +1,10 @@
 <h2 align="left">
-Foundation Model 기반 AI 문제 해결에 관심을 둔 개발자
+Interested in AI development, with a focus on LLMs and diffusion models
 </h2>
 
 <i>
-모델을 단순히 사용하는 데서 그치지 않고,  
-AI를 이해함으로써 데이터·시스템·문제 맥락에 맞게 활용합니다.
+모델을 단순히 사용하는 것에 그치지 않고,
+AI에 대한 이해를 바탕으로 데이터·시스템·문제 맥락에 맞게 활용합니다."
 </i>
 
 
