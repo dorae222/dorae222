@@ -16,7 +16,7 @@
 </div>
 
 
-## 1. Education & Program Journey
+## 1. Education & Program
 
 ```mermaid
 gantt
@@ -43,6 +43,7 @@ gantt
 | Period | Program | Organization |
 |--------|---------|--------------|
 | `2025.06 ~ 2025.12` | **[인공지능 사관학교 6기](https://gj-aischool.or.kr/)** | ![AICA](https://img.shields.io/badge/AICA-1E3A8A?style=flat-square) ![EST](https://img.shields.io/badge/EST-0066CC?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![NAVER Cloud](https://img.shields.io/badge/NAVER_Cloud-03C75A?style=flat-square&logo=naver&logoColor=white) |
+| `2024.07 ~ 2024.12` | **[비즈랩(빅데이터랩)]([https://github.com/tobigs-datamarket](https://biz.hanyang.ac.kr/en/bizlab))** | 한양대학교 |
 | `2023.07 ~ 2024.06` | **[투빅스](https://github.com/tobigs-datamarket)** | 연합 인공지능 동아리 |
 | `2023.03 ~ 2024.02` | **[HAI](https://github.com/HanyangTechAI)** | 교내 인공지능 동아리 |
 | `2022.10 ~ 2023.03` | **[Encore 빅데이터 엔지니어 16기](https://playdata.io/)** | Playdata |
@@ -55,8 +56,8 @@ gantt
 | Year | Award | Link |
 |------|-------|------|
 | `2025` | 인공지능 사관학교 6기 온라인 해커톤 **대상(1위)** | [🏆](https://drive.google.com/file/d/1Xp6P4loUhJ85T2C46xoiXY4gmyYDXCTc/view?usp=sharing) |
-| `2023` | 한국관광공사 **사장상** _(관광부상지역 모니터링 시스템 개발)_ | [🏆](https://drive.google.com/file/d/11FliXJrwMraneUoEo8bw_5rGh5OJ4KMq/view?usp=sharing) |
 | `2023` | 교내 한국어 지역 방언 분류 대회 **3위** | [🏆](https://www.kaggle.com/competitions/hai2023summer/overview) |
+| `2022` | 한국관광공사 **사장상** _(관광부상지역 모니터링 시스템 개발)_ | [🏆](https://drive.google.com/file/d/11FliXJrwMraneUoEo8bw_5rGx5OJ4KMq/view?usp=sharing) |
 | `2022` | 한국관광 데이터랩 우수 활용사례 공모전 **우수상(2등)** | [🏆](https://drive.google.com/file/d/1xH-kmTamXGiSPQSZD9QWAlBICoycC2xv/view?usp=sharing) |
 
 ### Certifications
