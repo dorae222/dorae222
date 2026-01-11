@@ -4,9 +4,10 @@
 
 <img src="https://github.com/user-attachments/assets/db0d8e84-cacc-4b12-8dea-3ba0a0fee3b1" width="200" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dorae222)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhj9842@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeongjun-do-5519321aa/)
 [![Blog](https://img.shields.io/badge/Blog-483699?style=flat-square&logo=obsidian&logoColor=white)](https://publish.obsidian.md/dorae222/HOME)
+
 
 </div>
 
