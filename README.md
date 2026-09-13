@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhj9842@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeongjun-do-5519321aa/)
-[![Blog](https://img.shields.io/badge/Blog-483699?style=flat-square&logo=obsidian&logoColor=white)](https://publish.obsidian.md/dorae222/HOME)
+[![Blog](https://img.shields.io/badge/Blog-483699?style=flat-square&logo=obsidian&logoColor=white)](https://blog.dorae222.com/)
 
 
 </div>
