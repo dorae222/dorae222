@@ -53,7 +53,7 @@
 
 | Period | Program | Organization |
 |:------:|:--------|:-------------|
-| `2025.06 ~ 2025.12` | **[인공지능 사관학교 6기](https://gj-aischool.or.kr/)** | ![AICA](https://img.shields.io/badge/AICA-1E3A8A?style=flat-square) ![EST](https://img.shields.io/badge/EST-0066CC?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![NCP](https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=NCP&logoColor=white) |
+| `2025.06 ~ 2025.12` | **[인공지능 사관학교 6기](https://gj-aischool.or.kr/)** | ![AICA](https://img.shields.io/badge/AICA-1E3A8A?style=flat-square) ![EST](https://img.shields.io/badge/EST-0066CC?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
 | `2024.07 ~ 2024.12` | **[비즈랩(빅데이터랩)](https://biz.hanyang.ac.kr/en/bizlab)** | 한양대학교 |
 | `2023.07 ~ 2024.06` | **[투빅스](https://github.com/tobigs-datamarket)** | 연합 인공지능 동아리 |
 | `2023.03 ~ 2024.02` | **[HAI](https://github.com/HanyangTechAI)** | 교내 인공지능 동아리 |
