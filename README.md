@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhj9842@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeongjun-do-5519321aa/)
-[![Blog](https://img.shields.io/badge/Blog-483699?style=flat-square&logo=obsidian&logoColor=white)](https://blog.dorae222.com/)
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://blog.dorae222.com/)
 
 
 </div>
@@ -20,6 +20,15 @@
 > 
 > I believe that the future belongs to those who can **bridge insights across disciplines** <br>transforming data and technology into **real-world value**.
 <br>
+
+## Experience
+
+- **ClaBi** - AIOps팀 연구원 _(2026.03 ~ 2026.11)_
+    - **금융감독원 DT 전환 시스템: AI 기반 금융민원·분쟁 종합포탈시스템 구축 (AI)** _(2026.04 ~ 2026.11)_
+        - 폐쇄망 온프레미스 환경의 Kubernetes 기반 민원 처리 AI 플랫폼 구축·운영 (Backend · AI Agent · 데이터 ETL 담당)
+        - 민원 처리 AI Agent 기능 개발
+        - 레거시 DB 데이터 ETL 파이프라인 및 벡터 검색 파이프라인 구축
+        - Langfuse 기반 LLM 관측 · 평가 체계 구축
 
 ## Education
 
@@ -46,8 +55,6 @@
 |  | [SAA-C03, MLA-C01, DEA-C01](https://www.credly.com/users/hyeongjun-do) |
 |  | [MLS-C01](https://www.credly.com/users/hyeongjun-do) |
 | **K-Data** | [ADsP](https://drive.google.com/drive/folders/1xD3_ovM2pyJEF9KivRISei6iSpnZpnmv), [SQLD](https://drive.google.com/drive/folders/1xD3_ovM2pyJEF9KivRISei6iSpnZpnmv) |
-| **한국산업인력공단** | 정보처리기사, 빅데이터분석기사 |
-
 
 ## Programs & Activities
 
@@ -70,11 +77,14 @@
 | Category | Stack |
 |:---------|:------|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) |
-| **Backend (Main)** | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |
-| Backend (Experience) | ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white) ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black) |
+| **Backend (Main)** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |
+| Backend (Experience) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white) ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black) |
 | **Data / ML (Main)** | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
 | Data Engineering (Experience) | ![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?logo=apachehadoop&logoColor=black) ![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?logo=apachehive&logoColor=black) ![Pig](https://img.shields.io/badge/Apache_Pig-FF6600?logo=apache&logoColor=white) ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white) |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
 | Frontend (Experience) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| **DevOps / Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) |
+| **MLOps / LLMOps (Main)** | ![Prefect](https://img.shields.io/badge/Prefect-024DFD?logo=prefect&logoColor=white) ![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?logo=langfuse&logoColor=white) |
+| MLOps / LLMOps (Experience) | ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?logo=vllm&logoColor=white) |
+| **DevOps / Cloud (Main)** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) |
+| DevOps / Cloud (Experience) | ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white) |
 | **OS / Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
